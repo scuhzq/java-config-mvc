@@ -3,5 +3,5 @@ build
 *.iml
 .gradle
 classes
-src/main/resources/dby-finance-dev.properties
-src/main/resources/dby-finance-prod.properties
+src/main/resources/properties/dby-finance-dev.properties
+src/main/resources/properties/dby-finance-prod.properties
